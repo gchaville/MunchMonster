@@ -1,1 +1,1 @@
-../../../Prototype/Prototype.uproject  /Game/SideScrollerBP/Maps/LevelGillian -Messaging -SessionId=0DA7DD4F4AE1D397D7BE6FB01A6DD9BD -SessionOwner=Gillian -SessionName='Play On Device' -iterative
+../../../Prototype/Prototype.uproject  /Game/SideScrollerBP/Maps/Level_1 -Messaging -SessionId=028AF8644333E6B1A80AADA5ED696F44 -SessionOwner=Gillian -SessionName='Play On Device' -iterative
