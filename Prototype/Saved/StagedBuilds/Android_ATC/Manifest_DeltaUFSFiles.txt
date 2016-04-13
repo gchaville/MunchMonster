@@ -1,5 +1,3 @@
-Prototype\Config\DefaultEngine.ini
-Prototype\Config\DefaultGame.ini
 Prototype\Config\DefaultInput.ini
 Engine\GlobalShaderCache-GLSL_ES2.bin
 Engine\Content\ArtTools\RenderToTexture\Enums\EFloatTypes.uasset
@@ -41,15 +39,20 @@ Engine\Content\EditorLandscapeResources\LandscapeGizmo_Mat.uasset
 Engine\Content\EditorLandscapeResources\LandscapeGizmo_Mat_Copied.uasset
 Engine\Content\EditorLandscapeResources\SplineEditorMesh.uasset
 Engine\Content\EditorLandscapeResources\SplineEditorMeshMat.uasset
+Engine\Content\EditorMaterials\AntialiasedGridFloor.uasset
 Engine\Content\EditorMaterials\CompositeARGBLayer.uasset
 Engine\Content\EditorMaterials\Cross.uasset
 Engine\Content\EditorMaterials\Cross_Mat.uasset
 Engine\Content\EditorMaterials\GizmoMaterial.uasset
+Engine\Content\EditorMaterials\GridMaterial.uasset
 Engine\Content\EditorMaterials\HelpActorMaterial.uasset
 Engine\Content\EditorMaterials\LevelGridMaterial.uasset
+Engine\Content\EditorMaterials\LevelGridMaterial2.uasset
+Engine\Content\EditorMaterials\MakeCompositeARGBLayer.uasset
 Engine\Content\EditorMaterials\MatineeCam_mat.uasset
 Engine\Content\EditorMaterials\MAT_Groups_Toggle.uasset
 Engine\Content\EditorMaterials\MAT_Groups_Visibility.uasset
+Engine\Content\EditorMaterials\PersonaFloorMat.uasset
 Engine\Content\EditorMaterials\PhAT_BoneSelectedMaterial.uasset
 Engine\Content\EditorMaterials\PhAT_ElemSelectedMaterial.uasset
 Engine\Content\EditorMaterials\PhAT_JointLimitMaterial.uasset
@@ -58,6 +61,8 @@ Engine\Content\EditorMaterials\PhAT_UnselectedMaterial.uasset
 Engine\Content\EditorMaterials\PreviewShadowIndicator.uasset
 Engine\Content\EditorMaterials\PreviewShadowIndicatorMaterial.uasset
 Engine\Content\EditorMaterials\TargetIcon.uasset
+Engine\Content\EditorMaterials\TextureGridCascaded1D.uasset
+Engine\Content\EditorMaterials\TextureGridCascaded2D.uasset
 Engine\Content\EditorMaterials\Tick.uasset
 Engine\Content\EditorMaterials\Tick_Mat.uasset
 Engine\Content\EditorMaterials\TilingAADots.uasset
@@ -95,11 +100,13 @@ Engine\Content\EditorMeshes\EditorPlane.uasset
 Engine\Content\EditorMeshes\EditorSkySphere.uasset
 Engine\Content\EditorMeshes\EditorSphere.uasset
 Engine\Content\EditorMeshes\MatineeCam_SM.uasset
+Engine\Content\EditorMeshes\PhAT_FloorBox.uasset
 Engine\Content\EditorResources\Bad.uasset
 Engine\Content\EditorResources\Bkgnd.uasset
 Engine\Content\EditorResources\BkgndHi.uasset
 Engine\Content\EditorResources\BSPVertex.uasset
 Engine\Content\EditorResources\EmptyActor.uasset
+Engine\Content\EditorResources\LevelGrid1DStripes.uasset
 Engine\Content\EditorResources\MatineeCam_D.uasset
 Engine\Content\EditorResources\MatInstActSprite.uasset
 Engine\Content\EditorResources\SceneManager.uasset
@@ -123,6 +130,8 @@ Engine\Content\EditorResources\S_Thruster.uasset
 Engine\Content\EditorResources\S_Trigger.uasset
 Engine\Content\EditorResources\S_VectorFieldVol.uasset
 Engine\Content\EditorResources\S_WindDirectional.uasset
+Engine\Content\EditorResources\TilePatine_D.uasset
+Engine\Content\EditorResources\TilePatine_N.uasset
 Engine\Content\EditorResources\T_EditorHelp.uasset
 Engine\Content\EditorResources\AI\S_NavLink.uasset
 Engine\Content\EditorResources\LightIcons\SkyLight.uasset
@@ -281,7 +290,6 @@ Engine\Content\Tutorial\Basics\TutorialAssets\icon_tab_Levels_40x.uasset
 Engine\Content\Tutorial\BlueprintTutorials\BlueprintEditorTutorial.uasset
 Engine\Content\Tutorial\BlueprintTutorials\TutorialAssets\Blueprint_64x.uasset
 Engine\Content\Tutorial\BlueprintTutorials\TutorialAssets\Tutorial_BP_MacroLib.uasset
-Engine\Content\Tutorial\InWorldBlueprintEditing\IWBE_Tutorial.uasset
 Engine\Plugins\2D\Paper2D\Content\DefaultPaperTerrainMaterial.uasset
 Engine\Plugins\2D\Paper2D\Content\DefaultSpriteMaterial.uasset
 Engine\Plugins\2D\Paper2D\Content\DummySprite.uasset
@@ -334,6 +342,7 @@ Prototype\Content\SideScrollerBP\Blueprints\Platform.uasset
 Prototype\Content\SideScrollerBP\Blueprints\RollermonsterBP.uasset
 Prototype\Content\SideScrollerBP\Blueprints\SideScrollerCharacter.uasset
 Prototype\Content\SideScrollerBP\Blueprints\SideScrollerGameMode.uasset
+Prototype\Content\SideScrollerBP\Blueprints\SwipeController.uasset
 Prototype\Content\SideScrollerBP\Blueprints\ToxicPlant.uasset
 Prototype\Content\SideScrollerBP\Blueprints\TrampomonsterBP.uasset
 Prototype\Content\SideScrollerBP\Blueprints\wallofDeathBP.uasset
