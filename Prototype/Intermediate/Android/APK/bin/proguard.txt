@@ -1,11 +1,11 @@
 # view AndroidManifest.xml #generated:39
--keep class com.YourCompany.Prototype.AlarmReceiver { <init>(...); }
+-keep class com.company.Project.AlarmReceiver { <init>(...); }
 
 # view AndroidManifest.xml #generated:24
--keep class com.YourCompany.Prototype.DownloaderActivity { <init>(...); }
+-keep class com.company.Project.DownloaderActivity { <init>(...); }
 
 # view AndroidManifest.xml #generated:38
--keep class com.YourCompany.Prototype.OBBDownloaderService { <init>(...); }
+-keep class com.company.Project.OBBDownloaderService { <init>(...); }
 
 # view AndroidManifest.xml #generated:11
 -keep class com.epicgames.ue4.GameActivity { <init>(...); }

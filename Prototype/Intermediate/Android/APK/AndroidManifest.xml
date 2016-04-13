@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="com.YourCompany.Prototype"
+          package="com.company.Project"
           android:versionCode="1"
           android:versionName="1.0">
 
@@ -28,7 +28,7 @@
 		<meta-data android:name="com.epicgames.ue4.GameActivity.bShouldHideUI" android:value="false"/>
 		<meta-data android:name="com.epicgames.ue4.GameActivity.bEnableEngineCrashHandler" android:value="false"/>
 		<meta-data android:name="com.epicgames.ue4.GameActivity.ProjectName" android:value="Prototype"/>
-		<meta-data android:name="com.epicgames.ue4.GameActivity.bHasOBBFiles" android:value="false"/>
+		<meta-data android:name="com.epicgames.ue4.GameActivity.bHasOBBFiles" android:value="true"/>
 		<meta-data android:name="com.google.android.gms.games.APP_ID"
 		           android:value="@string/app_id" />
 		<meta-data android:name="com.google.android.gms.version"
