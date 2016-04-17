@@ -1,4 +1,4 @@
-C:\Users\utilisateur\Documents\MunchMonster\Prototype\Intermediate\Android\APK\gen\com\YourCompany\Prototype\R.java \
+C:\Users\utilisateur\Documents\MunchMonster\Prototype\Intermediate\Android\APK\gen\com\company\Project\R.java \
  : C:\Users\utilisateur\Documents\MunchMonster\Prototype\Intermediate\Android\APK\JavaLibs\google-play-services_lib_rev19\res\color\common_signin_btn_text_dark.xml \
 C:\Users\utilisateur\Documents\MunchMonster\Prototype\Intermediate\Android\APK\JavaLibs\google-play-services_lib_rev19\res\color\common_signin_btn_text_light.xml \
 C:\Users\utilisateur\Documents\MunchMonster\Prototype\Intermediate\Android\APK\JavaLibs\google-play-services_lib_rev19\res\color\wallet_primary_text_holo_light.xml \
