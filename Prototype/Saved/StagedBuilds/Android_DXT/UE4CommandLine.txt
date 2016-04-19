@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ../../../Prototype/Prototype.uproject 
+=======
+../../../Prototype/Prototype.uproject  /Game/SideScrollerBP/Maps/Level_1 -Messaging -SessionId=049B3143413D1B8462833D85A7863B6D -SessionOwner=utilisateur -SessionName='Play On Device' -iterative
+>>>>>>> master

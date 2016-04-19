@@ -1,5 +1,9 @@
 #Last build type
+<<<<<<< HEAD
 #Wed, 13 Apr 2016 14:56:48 -0400
+=======
+#Mon, 18 Apr 2016 09:20:08 -0400
+>>>>>>> master
 
 build.last.target=debug
 

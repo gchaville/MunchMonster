@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Engine\Content\EditorMaterials\MatineeGreyGrad.uasset
 Engine\Content\EditorMaterials\Cascade\CASC_ModuleEnable.uasset
 Engine\Content\EditorMaterials\MatineeGroups\MAT_Groups_Graph_Off.uasset
@@ -8,3 +9,5 @@ Engine\Content\EditorMaterials\MatineeGroups\MAT_Groups_Right_Off.uasset
 Engine\Content\EditorMaterials\MatineeGroups\MAT_Groups_Right_On.uasset
 Engine\Content\EditorMaterials\MatineeGroups\MAT_Groups_View_Off.uasset
 Engine\Content\EditorMaterials\MatineeGroups\MAT_Groups_View_On.uasset
+=======
+>>>>>>> master
