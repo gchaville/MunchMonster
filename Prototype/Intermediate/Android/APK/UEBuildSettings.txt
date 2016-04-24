@@ -2,7 +2,7 @@ NDKROOT=C:\NVPACK\android-ndk-r10e
 ANDROID_HOME=C:\NVPACK\android-sdk-windows
 ANT_HOME=C:\NVPACK\apache-ant-1.8.2
 JAVA_HOME=C:\NVPACK\jdk1.7.0_71
-SDKVersion=android-19
+SDKVersion=android-21
 bForDistribution=False
 bMakeSeparateApks=True
 bPackageDataInsideApk=False
@@ -25,11 +25,7 @@ VersionDisplayName=1.0
 MinSDKVersion=9
 ApplicationDisplayName=BouncyBerry
 bFullScreen=False
-SDKAPILevel=android-19
+SDKAPILevel=latest
 NDKAPILevel=android-19
-SDKPath=(Path=)
-NDKPath=(Path=)
-ANTPath=(Path=)
-JavaPath=(Path=)
 Arch=-armv7
 GPUArch=-es2
